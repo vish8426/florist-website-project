@@ -1,0 +1,35 @@
+TC-001: Verify that a customer can browse the gallery of floral arrangements, including images, prices, and stock availability.
+TC-002: Verify that a customer can add an arrangement to the shopping cart.
+TC-003: Verify that a customer can remove or modify items in the shopping cart before checkout.
+TC-004: Verify that a customer can proceed to checkout as a guest.
+TC-005: Verify that a customer can proceed to checkout as a logged-in user.
+TC-006: Verify that after three failed login attempts, the account is locked for 30 minutes.
+TC-007: Verify that a customer can pay securely using credit/debit cards.
+TC-008: Verify that a customer can pay securely using a digital wallet (e.g., PayPal, Apple Pay, Google Pay).
+TC-009: Verify that a customer can select a delivery date and time from available slots.
+TC-010: Verify that after successful payment, the system shows an order confirmation on-screen and sends confirmation by email/SMS.
+TC-011: Verify that customers receive order status notifications (in preparation, out for delivery, delivered).
+TC-012: Verify that a customer can create an account, view order history, and reorder past arrangements.
+TC-013: Verify that a customer can save favourite arrangements and reorder them later.
+TC-014: Verify that the florist can update inventory in real-time, and that customers only see available stock.
+TC-015: Verify that the florist can view all incoming orders and track their status in a dashboard.
+TC-016: Verify that the florist can update gallery images and blog content via the admin interface.
+TC-017: Verify that the florist can manage delivery schedules and plan routes without conflicts.
+TC-018: Verify that the system stores and retrieves customer preferences for a personalised shopping experience.
+TC-019: Verify that social media links (Instagram, Facebook) are present and functional.
+TC-020: Verify that customers can redeem points/rewards for referrals and promotions.
+TC-021: Verify that product details (images, price, stock, customisation options) are accurate and consistent.
+TC-022: Verify that customers can view seasonal updates and flower care tips in the blog section.
+TC-023: Verify that customers can filter gallery items by type, occasion, and availability.
+TC-024: Verify that the website provides consistent functionality and layout on desktop, tablet, and mobile.
+
+TC-025: Verify that all pages load within 3 seconds on standard broadband.
+TC-026: Verify that payment transactions comply with PCI DSS standards (by reviewing logs/config).
+TC-027: Verify that customer passwords are stored using salted hashing (security inspection).
+TC-028: Verify that the system maintains 99% uptime during business hours over a monitored test period.
+TC-029: Verify that customer account data is retained for 5 years of inactivity.
+TC-030: Verify that the website layout is responsive and functional across desktop, tablet, and mobile screens.
+TC-031: Verify that the system supports 500 concurrent users without performance degradation (load testing).
+TC-032: Verify that daily automated backups are performed and restorable for database and media files.
+TC-033: Verify that email/SMS notifications comply with privacy regulations (no data leaks, opt-out options).
+TC-034: Verify that all transactions and order status updates are logged with timestamps and can be audited.

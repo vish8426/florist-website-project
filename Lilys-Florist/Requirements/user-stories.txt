@@ -1,0 +1,19 @@
+US-001: As a customer, I want to browse a gallery of floral arrangements so that I can choose designs I like.
+US-002: As a customer, I want to read seasonal updates and flower tips so that I feel inspired and informed when making a purchase.
+US-003: As a customer, I want to see what arrangements are currently in stock so that I only order items available for delivery.
+US-004: As a customer, I want an easy checkout process so that I can complete orders quickly without confusion and with clear pricing.
+US-005: As a customer, I want to pay securely using cards or digital wallets.
+US-006: As a customer, I want to schedule a delivery date and time so that my flowers arrive when I need them.
+US-007: As a customer, I want to create an account and view my order history so that I can reorder past arrangements easily.
+US-008: As a customer, I want to save favourite arrangements so that I can quickly find and order them later.
+US-009: As a customer, I want clear confirmation of my order via email or SMS so that I know my order was successful.
+US-010: As a customer, I want notifications when my delivery is out for delivery or completed so that I can track my gift.
+US-011: As a customer, I want to have the opportunity to redeem discounts on future orders from points earned.
+US-012: As the florist, I want to manage inventory in real time so that customers only see available arrangements.
+US-013: As the florist, I want to track and manage all incoming orders so that I can efficiently prepare and schedule deliveries.
+US-014: As the florist, I want to update the gallery and blog content easily so that customers see fresh designs and seasonal tips.
+US-015: As the florist, I want to manage delivery scheduling so that I can plan routes efficiently and avoid conflicts.
+US-016: As the florist, I want to maintain customer accounts and preferences so that repeat customers get a personalised experience.
+US-017: As the florist, I want to provide links to social media so that customers can follow updates and promotions.
+US-018: As the florist, I want to provide points and rewards as part of a rewards program for referrals and special promotions during holidays and events.
+US-019: As the florist, I want to promote and refer people to some of the shop’s profile pages on social media platforms Instagram and Facebook.

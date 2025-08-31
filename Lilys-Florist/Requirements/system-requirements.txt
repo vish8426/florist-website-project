@@ -1,0 +1,33 @@
+FR-001: A customer shall be able to browse a gallery of floral arrangements with images, prices and stock availability.
+FR-002: A customer shall be able to add a selected arrangement to a shopping cart.
+FR-003: A customer shall be able to remove or modify items in their cart before checkout.
+FR-004: A customer shall be able to proceed to checkout as a guest or logged-in user.
+FR-005: A user shall be allowed three login attempts before the system locks the account for 30 minutes.
+FR-006: A customer shall be able to pay securely using credit/debit cards or digital wallets.
+FR-007: A customer shall be able to select a delivery date and time from available slots.
+FR-008: The system shall provide a confirmation of order on-screen and via email/SMS immediately after payment.
+FR-009: Customers shall receive notifications when the order status (e.g. in preparation, out for delivery, delivered).
+FR-010: Customers shall be able to create accounts, view order history and reorder past arrangements.
+FR-011: Customers shall be able to save favourite arrangements to quickly find and reorder them later.
+FR-012: The florist shall be able to update inventory in real-time to reflect available arrangements.
+FR-013: The florist shall be able to view all incoming orders and track status in a dashboard.
+FR-014: The florist shall be able to update gallery and blog content through an admin interface.
+FR-015: The florist shall be able to manage delivery schedules and plan routes efficiently.
+FR-016: The system shall store customer preferences to allow personalised experiences for repeat customers.
+FR-017: The system shall provide links to social media platforms (Instagram, Facebook) for promotions.
+FR-018: The system shall allow points and rewards redemption for referrals and special promotions.
+FR-019: The system shall display accurate product details including stock availability, price and customisation options.
+FR-020: Customers shall be able to view seasonal updates and flower care tips in a blog section.
+FR-021: Customers shall be able to filter gallery items by type, occasion and availability.
+FR-022: Customers shall be able to access the website from desktop and mobile devices with consistent functionality.
+
+NFR-001: Pages shall load within 3 seconds for users on standard broadband connections.
+NFR-002: All payment transactions shall comply with PCI DSS standards.
+NFR-003: Customer passwords shall be stored using salted hashing algorithms.
+NFR-004: System shall have 99% uptime during business hours (8AM – 8PM).
+NFR-005: Customer data shall be stored for a minimum of 5 years if no activity occurs on the account.
+NFR-006: The website shall be navigable with standard screen sizes (desktop, tablet, mobile).
+NFR-007: System shall support at least 500 concurrent users without performance degradation.
+NFR-008: Daily automated backups shall be maintained for database and media files.
+NFR-009: Emails/SMS notifications shall comply with privacy regulations.
+NFR-010: All transactions and order status updates shall be logged with timestamps for audit purposes.
