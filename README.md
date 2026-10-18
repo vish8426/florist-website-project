@@ -10,17 +10,15 @@ Requirements engineering and UX design package for an e-commerce website for **L
 **This is a design and requirements project. No website code is implemented.**
  
 📄 **[Read the full report (PDF)](Managing-Software-Engineering-Project-Vishant-Prasad.pdf)**
- 
----
- 
+
+
 ## Preview
  
 | Wireframe | Mockup |
 |---|---|
 | ![Homepage wireframe](Wireframes/Lily's%20Florist%20Wireframes%201.png) | ![Homepage mockup](Mockups/Mockup%20(1).png) |
  
----
- 
+
 ## Problem
  
 Lily needs a site where customers can order flowers, browse designs and schedule delivery or pickup, while she manages orders and inventory in one place.
@@ -33,9 +31,8 @@ Client pain points identified during discovery:
 | P2 | Delivery timing stressful for last-minute or surprise gifts | Scheduling & reliability |
 | P3 | Flowers in stock sometimes differ from website photos | Product accuracy vs availability |
 | P4 | Repeat orders require re-explaining preferences | Personalisation & repeat ordering |
- 
----
- 
+
+
 ## Approach
  
 1. **Requirements gathering** — Simulated client interview with a "Lily the Florist" AI persona ([transcript](Lilys-Florist/ChatGPT-Lily%20the%20Florist%20-%20Interview.pdf)).
@@ -47,8 +44,8 @@ Client pain points identified during discovery:
 7. **Information architecture** — Sitemaps for customer and admin views.
 8. **Wireframes** — 13 annotated low-fidelity screens.
 9. **Mockups** — 19 high-fidelity screens.
----
- 
+
+
 ## Scope
  
 **Customer-facing**
@@ -63,12 +60,12 @@ Client pain points identified during discovery:
 **Florist / admin**
 - Real-time inventory management
 - Order list, order detail and fulfilment tracking
-### Screens designed
+
+### Screens Designed
  
 Homepage · Gallery · Store · Product · Cart · Checkout (Account → Delivery → Payment → Confirmation) · Customer Dashboard · Admin Order List · Admin Inventory · Admin Order Detail
- 
----
- 
+
+
 ## Repository Structure
  
 ```
@@ -92,12 +89,11 @@ Homepage · Gallery · Store · Product · Cart · Checkout (Account → Deliver
 ├── Mockups/                # High-fidelity mockups
 └── Assests/                # Image assets used in mockups
 ```
- 
----
+
  
 ## Reproducing Artefacts
  
-### User journey diagrams
+### User Journey Diagrams
  
 ```bash
 pip install graphviz          # also requires Graphviz system binaries
@@ -106,14 +102,13 @@ python User-Journey.py
 python Swimlane-Style.py
 ```
  
-### Traceability matrix
+### Traceability Matrix
  
 ```bash
 cd Lilys-Florist/Requirements
 reqflow trac -c reqflow.cfg -x html > traceability.html
 ```
- 
----
+
  
 ## Key Deliverables
  
@@ -128,15 +123,13 @@ reqflow trac -c reqflow.cfg -x html > traceability.html
 | Sitemaps | [Views PDF](Diagrams/Sitemap%20Planning%20-%20Views.pdf) |
 | Annotated wireframes | [PDF](Wireframes/Annotated-Wireframes.pdf) |
 | Mockups | [PDF](Mockups/Mockups-Merged.pdf) |
- 
----
+
  
 ## Skills Demonstrated
  
 Requirements elicitation · User story writing · Functional & non-functional specification · Test case design · Requirements traceability · User journey mapping · Information architecture · Wireframing · UI mockups · Diagrams-as-code
- 
----
- 
+
+
 ## License
  
 [MIT](LICENSE)
